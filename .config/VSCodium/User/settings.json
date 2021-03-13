@@ -1,0 +1,40 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.simpleDialog.enable": true,
+
+    "editor.cursorBlinking": "smooth",
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.minimap.showSlider": "always",
+    "editor.renderControlCharacters": true,
+    "editor.renderIndentGuides": false,
+    "editor.renderWhitespace": "boundary",
+
+    "explorer.openEditors.visible": 0,
+    "search.searchEditor.defaultNumberOfContextLines": 3,
+
+    "window.dialogStyle": "custom",
+    "window.menuBarVisibility": "compact",
+    "window.titleBarStyle": "custom",
+
+    "workbench.editor.closeEmptyGroups": false,
+    "diffEditor.ignoreTrimWhitespace": true,
+
+    "cSpell.allowCompoundWords": true,
+    "cSpell.language": "en,ru",
+    "cSpell.userWords": [
+        "Kubectl",
+        "Kubernetes",
+        "POSTGRES",
+        "timescaledb"
+    ],
+
+    "workbench.tips.enabled": false,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.activityBar.visible": true,
+    "workbench.iconTheme": "vs-seti",
+    "workbench.preferredDarkColorTheme": "Solarized Dark",
+    "workbench.preferredLightColorTheme": "Solarized Light",
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.startupEditor": "none"
+}
